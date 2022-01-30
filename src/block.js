@@ -10,7 +10,7 @@ class Block {
       hash: this.#getHash(),
       timestamp: Date.now(),
     };
-  }
+  } 
   
   // Getters
   get data() {

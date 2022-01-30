@@ -4,6 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "build": "node esbuild.prod.config.js",
+    "dev": "node esbuild.dev.config.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -16,5 +18,8 @@
     "url": "https://github.com/oscarMattos/blockchain/issues"
   },
   "homepage": "https://github.com/oscarMattos/blockchain#readme",
-  "devDependencies": {}
+  "devDependencies": {},
+  "dependencies": {
+    "esbuild": "^0.14.14"
+  }
 }

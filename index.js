@@ -1,6 +1,9 @@
 const Block = require("./src/block"),
   Blockchain = require("./src/blockchain");
 
+console.log("Enviroment");
+console.log(process.env.NODE_ENV);
+
 const SilveryChain = new Blockchain();
 
 const BLOCK_1 = new Block("Hola");

@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkblockchain=self.webpackChunkblockchain||[]).push([[143],{324:(e,n,s)=>{var c=s(935);const i=s(163).ZP.div.withConfig({displayName:"styles__Container"})(["padding:16px;& > p{font-family:sans-serif;color:blue;& > span{font-weight:bolder;}}"]);var o=s(893);c.render((0,o.jsx)(i,{children:(0,o.jsxs)("p",{children:["JSX con React!!! en ",(0,o.jsx)("span",{children:"vivo"})]})}),document.querySelector("#root"))}},e=>{e.O(0,[216],(()=>(324,e(e.s=324)))),e.O()}]);
+//# sourceMappingURL=app.eff623059bc8ca1e367d.js.map
